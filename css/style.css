@@ -272,7 +272,7 @@ img {
   margin-bottom: 50px;
 }
 .customers {
-  padding: 94px 215px;
+  padding: 94px 0;
   /* max-width: 1600px; */
 }
 .customers-list {

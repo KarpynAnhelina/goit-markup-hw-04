@@ -550,5 +550,5 @@ margin-bottom: 0%;
 }
 .container.footer {
   display: flex;
-  align-items: center;
+  align-items: baseline;
 }
